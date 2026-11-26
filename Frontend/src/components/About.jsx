@@ -1,5 +1,5 @@
 
-import AxionDev from '../assets/AxionDev.png';
+import AxionDev from '../assets/AXIONDEV.png';
 
 function About() {
     return (
