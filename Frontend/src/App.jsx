@@ -1,0 +1,24 @@
+import Header from './components/Header';
+import Hero from './components/Hero.jsx';
+import About from './components/About.jsx'
+import Projects from './components/Project.jsx'
+import Skills from './components/Skills.jsx'
+import Contact from './components/Contact.jsx'
+import ScrollAnimation from './components/ScrollAnimation.jsx'
+function App() {
+
+  return (
+    <>
+
+      <ScrollAnimation/>
+      <Header/>
+      <Hero/>
+      <About/>
+      <Projects/>
+      <Skills/>
+      <Contact />
+    </>
+  )
+}
+
+export default App
