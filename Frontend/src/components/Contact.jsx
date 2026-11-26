@@ -102,7 +102,7 @@ function Contact() {
                             <div className="contact-methods">
 
                                 <a
-                                    href="mailto:YOUR_EMAIL@example.com"
+                                    href="mailto:axiondev00@gmail.com"
                                     className="contact-method"
                                 >
                                     <div className="contact-method-icon">
