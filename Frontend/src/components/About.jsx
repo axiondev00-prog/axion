@@ -63,7 +63,7 @@ function About() {
                         </div>
 
                         <div className="detail-item">
-                            <span>Training</span>
+                            <span>Trained</span>
                             <p>SQI College of ICT</p>
                         </div>
 

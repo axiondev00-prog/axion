@@ -1,5 +1,5 @@
 
-import axionLogo from '../assets/axion-logo.png';
+import axionHero from '../assets/axion-hero.jpg';
 
 
 function Hero() {
@@ -58,7 +58,7 @@ function Hero() {
                 <div className="image-glow"></div>
 
                 <img
-                    src={axionLogo}
+                    src={axionHero}
                     alt="AXION Developer"
                     className="AxionDev"
                 />
